@@ -1,5 +1,5 @@
 {
-  "licence": "GPL-2.0",
+  "license": "GPL-2.0",
   "name": "dbseller/legacy",
   "description": "Retrocompatibilidade do PHP para versao 5.3 -> 7.0",
   "authors": [
